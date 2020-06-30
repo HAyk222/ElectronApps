@@ -1,0 +1,107 @@
+getgrav.org
+
+//////////////////////
+
+upload
+
+https://www.youtube.com/watch?v=YR4roPyfDQU
+
+//////////////////////////////////////////////////
+
+https://www.youtube.com/watch?v=SWYqp7iY_Tc
+https://www.youtube.com/watch?v=spr0ZHC2x2o&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx&index=3
+https://www.youtube.com/watch?v=9d5bJc8o7MA
+http://guides.railsgirls.com/github
+//Web Asemply
+https://egghead.io/courses/introduction-to-webassembly
+npm run dev
+npm start
+
+
+
+Add_post_meta()
+Update_post_meta()
+Delete_post_meta()
+
+Add_option()
+Delete_option()
+Update_option()
+
+Add_user_meta()
+Update_user_meta()
+Delete_user_meta()
+
+//////////////
+
+https://egghead.io/lessons/react-react-fundamentals-development-environment-setup
+
+///////////////
+
+https://wpshout.com/simple-route-writing-react-js-app-wordpress-plugin/
+
+//////////////
+
+
+git clone https://HaykYeghiazaryan@bitbucket.org/HaykYeghiazaryan/hayk-social.git
+
+hayk-social vra aj click u git bash
+
+git status tesnum enq popoxutunnery
+
+git add .    bolor faylery patrastuma vor uxarkenq git
+
+git config --global user.name HaykYeghiazaryan
+git config --global user.email haykk.yeghiazaryan    im anunov em uxarkum
+
+git commit -m 'init'     bacatrutuny
+
+git push origin master  qcuma git faylery
+
+
+/////////////////////////////////////////////
+
+
+ vercnuma popoxutunnery vor gitum kan bayc im mot chkan
+
+////////////////////////////////////////////////
+
+1.
+git add .
+
+2.
+git commit -m 'init'
+
+3.
+git fetch -all (ete chashxati --all)
+
+4.
+git pull -all (ete chashxati --all)
+
+5. Ete ka popoxutun 
+git merge --all
+
+6.
+git push origin master
+
+/////////////////////////////////
+
+
+https://www.itjobs.am/job/armsoft/webmobile_developer_needed/5a294d89f9dedf00045066e9
+
+//////////////////////////////////////////
+
+https://yerevancoder.com/2018-03-14-Front-End-ReactJS-Developer-Learning-Path/
+
+
+///////////////////////////////////////
+
+https://github.com/extentusdk/frontend-sessions/blob/master/README.md
+
+
+////////////////////////////////////
+
+martiros.aghajanyan@gmail.com
+3UW(UoeuappgFEbdzNXmC7tybu3YEgMxUFn{$Jn7
+
+
+https://egghead.io/users/sign_in?enable=true

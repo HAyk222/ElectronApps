@@ -1,0 +1,28 @@
+http://api.development.jointohire.com/api/v1/docs
+https://trello.com/c/sDOuUFLt/258-not-signed-in-invite-freelancer-api-integration
+https://app.slack.com/client/TJWJAMPQQ/D010ARSHERJ
+https://www.figma.com/file/XXYPgvS2BVQKwin0y2xlpEH1/jointohire
+https://github.com/hrilikeit/payup
+http://getbem.com/naming/
+https://trello.com/b/pQ4chOip/payment-platform
+https://www.figma.com/file/QU3Q2lYLUFGTLghc7YkHJC/Payment-Service?node-id=54%3A2950
+
+
+
+http://test.jointohire.com:3000/api/v1/freelancer/3868
+
+5406610008745130
+12 2020
+651
+
+
+PAYPAL
+test883@gmail.com
+123456789
+
+https://github.com/lawwantsin/webpack-course/tree/master
+
+https://auth0.com/docs/quickstart/spa/react/01-login#verify-jwt-token-signature-setting
+Control Panel\User Accounts\Credential Manager
+https://www.awwwards.com/inspiration/search?text=tao+tajima
+6740

@@ -1,0 +1,44 @@
+http protocol
+context api redux differenc
+custom hooks
+HOC
+event loop Promise
+Typescript
+
+rivasdeveloper0@gmail.com
+https://medium.com/@transitive_bs/building-a-webgl-gallery-in-react-536d60806623
+
+Login: rivasdeveloper0@gmail.com
+passw: Davmark1100
+
+user: qwinm@yahoo.com
+passw: davmark11
+
+michael_dell@dell.com
+michael.dell@emc.com
+michael.dell@msdf.org
+midell@pivotal.io
+mdell@secureworks.com
+
+https://jointohire.com/public/team
+
+vigen@greatexpertdev.onmicrosoft.com
+Davmark11
+
+https://education.github.com/pack?fbclid=IwAR2K2hDWDQ1hF45_TmSw6KEKv9rMEv0xmC-OMwNlzGvXKLZMwitdQn_QaxY
+
+HTML5 Programming Tutorial indexDB
+
+https://medium.com/@ukchukx/building-a-pwa-for-tailors-with-react-and-indexeddb-bd0f3ef404e1
+
+https://www.eduonix.com/new_dashboard/Learn-HTML5-IndexedDB-App#!#contents
+
+https://reactjsexample.com/react-component-to-highlight-words-within-a-larger-body-of-text/
+
+
+https://golb.hplar.ch/2018/01/IndexedDB-programming-with-Dexie-js.html
+
+https://javascript.info/indexeddb
+
+https://auth0.com/blog/javascript-whats-new-es2020/?fbclid=IwAR2oi4PRSlZd1qLvwp06t7IbH2x_XjzErjPHB0u6eUgQ8jSOrhaSbfP10Z8
+https://blog.logrocket.com/mern-app-jwt-authentication-part-3/
